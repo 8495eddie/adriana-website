@@ -1,9 +1,18 @@
-@media screen  and (min-width: 200px) and (max-width: 400px) {
+@media screen and (min-width: 200px) and (max-width: 400px) {
 
     .nav-bar {
         display: flex;
         flex-direction: column;
         text-align: center;
+    }
+
+    .nav-bar img {
+        width: 240px;
+        margin-left: -30px;
+    }
+
+    .nav-bar a {
+        font-size: 45px;
     }
 
     .nav-bar-2 {
@@ -18,12 +27,13 @@
     .nav-welcome-mobile {
         background-color: aquamarine;
         opacity: .6;
+        font-size: 40px;
     }
 
     .nav-lux-mobile {
         background-color: aquamarine;
         opacity: .6;
-        font-size: 15px;
+        font-size: 40px;
     }
 
     .nav-bar img {
@@ -60,16 +70,17 @@
     }
 
     .pics-middle-mobile img {
-        width: 100px;
+        width: 280px;
         margin-right: 5px;
-        margin-left: 10px;
+        margin-left: 20px;
         margin-top: 20px;
         border-radius: 20px;
     }
 
     .pics-middle-text-mobile {
-        width: 220px;
+        width: 330px;
         text-align: center;
+        font-size: 40px;
     }
 
     .pics-middle-text-mobile h1 {
@@ -106,7 +117,8 @@
         width: 200px;
     }
 
-    .wax, .facial {
+    .wax,
+    .facial {
         position: relative;
         margin-left: 40px;
     }
@@ -236,13 +248,13 @@
 
 
 
-@media screen  and (min-width: 900px) and (max-width: 1266px) {
+@media screen and (min-width: 900px) and (max-width: 1266px) {
 
     .nav-bar-mobile {
         display: none;
     }
 
-    .nav-bar a{
+    .nav-bar a {
         margin-right: 20px;
     }
 
@@ -295,12 +307,12 @@
     }
 
     .adri {
-        margin-left: 40px; 
+        margin-left: 40px;
     }
 
 
 
-    .background-igrid  {
+    .background-igrid {
         margin-left: 100px;
     }
 
@@ -329,7 +341,7 @@
 
 
 
-@media screen  and (min-width: 400px) and (max-width: 1800px) {
+@media screen and (min-width: 400px) and (max-width: 1800px) {
 
     .nav-bar-mobile {
         display: none;
