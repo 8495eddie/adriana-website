@@ -15,6 +15,10 @@
         font-size: 45px;
     }
 
+    .nav-bar button {
+        font-size: 25px;
+    }
+
     .nav-bar-2 {
         display: none;
     }
@@ -78,7 +82,7 @@
     }
 
     .pics-middle-text-mobile {
-        width: 330px;
+        width: 310px;
         text-align: center;
         font-size: 40px;
     }
