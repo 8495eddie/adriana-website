@@ -20,7 +20,7 @@
 
 .nav-section {
     background-image: url(https://c8.alamy.com/comp/RGAY3A/tropical-background-palm-and-monstera-leaves-on-wooden-grey-background-flatlay-top-view-minimal-layout-summer-concept-RGAY3A.jpg);
-    
+
 }
 
 .nav-welcome {
@@ -105,11 +105,13 @@
     font-size: 18px;
 }
 
-.wax, .facial {
+.wax,
+.facial {
     margin-left: 100px;
 }
 
-.chem, .add {
+.chem,
+.add {
     padding-left: 60px;
 }
 
@@ -140,7 +142,6 @@
     text-align: center;
     font-size: 40px;
     width: 380px;
-    font-family: "Permanent Marker", cursive;
 }
 
 .adri {
@@ -156,7 +157,7 @@
 }
 
 
-.soon img{
+.soon img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -179,7 +180,8 @@
     padding-top: 20px;
 }
 
-.hours, .menu {
+.hours,
+.menu {
     margin-right: 300px;
     text-align: center;
 }
@@ -256,7 +258,7 @@
     margin-left: 200px;
 }
 
-.top-policy  h2 {
+.top-policy h2 {
     color: white;
     font-weight: 100;
 }
