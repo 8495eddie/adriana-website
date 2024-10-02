@@ -213,7 +213,11 @@
 
 
     .gps iframe {
-        width: 200px;
+        width: 300px;
+    }
+
+    .gps h5 {
+        font-size: larger;
     }
 
     .contact-footer {
@@ -224,10 +228,34 @@
 
     .form-hour {
         margin-bottom: 50px;
+        margin-left: 70px;
+    }
+
+    .form-hour h3 {
+        font-size: 40px;
+        margin-left: 20px;
+    }
+
+    .form-hour h5 {
+        font-size: 30px;
+        width: 200px;
     }
 
     .form-menu {
         margin-bottom: 50px;
+    }
+
+    .form-menu h3 {
+        font-size: 40px;
+        margin-left: -20px;
+    }
+
+    .form-menu a {
+        font-size: 30px;
+        width: 200px;
+        margin-left: -150px;
+        position: relative;
+        right: -70px;
     }
 
     .form-hour {
@@ -235,8 +263,16 @@
     }
 
     .form-menu {
-        margin-left: 60px;
+        margin-left: 120px;
         width: 100px;
+    }
+
+    .form-follow h3 {
+        font-size: 40px;
+    }
+
+    .form-follow a {
+        font-size: 30px;
     }
 
 
@@ -250,6 +286,33 @@
     .top-policy {
         width: 230px;
         margin-left: -00px;
+    }
+
+
+
+
+
+
+
+
+
+
+    .meet-header2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .meet-header2 img {
+        width: 320px;
+    }
+
+    .ramos h5 {
+        margin-left: 10px;
+    }
+
+    .hi h5 {
+        width: 330px;
+        margin-left: 10px;
     }
 
 }
@@ -347,6 +410,22 @@
         position: relative;
         right: 50px;
     }
+
+
+
+
+
+
+
+
+
+    .meet-header2 img {
+        width: 340px;
+    }
+
+    .hi h5 {
+        width: 350px;
+    }
 }
 
 
@@ -361,5 +440,9 @@
 
     .pics-middle-mobile {
         display: none;
+    }
+
+    .meet-header2 {
+        margin-left: 100px;
     }
 }
