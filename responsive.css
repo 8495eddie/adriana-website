@@ -303,15 +303,16 @@
     }
 
     .meet-header2 img {
-        width: 320px;
+        width: 300px;
+        margin-left: -10px;
     }
 
     .ramos h5 {
-        margin-left: 10px;
+        margin-left: -30px;
     }
 
     .hi h5 {
-        width: 330px;
+        width: 280px;
         margin-left: 10px;
     }
 
