@@ -98,6 +98,7 @@
 
 .services-grid img {
     width: 300px;
+    border-radius: 20%;
 }
 
 .services-grid h3 {
@@ -123,11 +124,12 @@
     background-image: url(https://images.pexels.com/photos/261403/pexels-photo-261403.jpeg?cs=srgb&dl=pexels-pixabay-261403.jpg&fm=jpg);
     padding-top: 120px;
     padding-bottom: 50px;
+    padding-left: 100px;
     display: flex;
 }
 
 .background-igrid img {
-    width: 300px;
+    width: 400px;
     border-radius: 50%;
     border-style: double;
     border-color: aqua;
@@ -145,7 +147,7 @@
 }
 
 .adri {
-    margin-left: 40px;
+    margin-left: 70px;
 }
 
 .background-grid {

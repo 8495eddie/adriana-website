@@ -427,13 +427,22 @@
     .hi h5 {
         width: 350px;
     }
+
+
+}
+
+
+@media screen and (min-width: 1266px) and (max-width: 1890px) {
+
+    .contact-footer {
+        margin-left: 200px;
+    }
 }
 
 
 
 
-
-@media screen and (min-width: 400px) and (max-width: 1800px) {
+@media screen and (min-width: 400px) and (max-width: 1890px) {
 
     .nav-bar-mobile {
         display: none;
